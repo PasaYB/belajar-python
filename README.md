@@ -47,8 +47,8 @@ print("Nilai x:", x)
 print("Nilai y:", y)
 ```
 
-Dalam kedua contoh tersebut, nilai variabel x dan y ditukar dengan menggunakan pendekatan yang berbeda,
-namun hasilnya sama. Metode kedua menggunakan koma operator untuk melakukan pertukaran dengan lebih sederhana dan langsung.
+Dalam kedua contoh tersebut, nilai variabel x dan y ditukar dengan menggunakan metode yang berbeda,
+namun hasilnya sama.
 
 ## Referensi
 - https://www.geeksforgeeks.org/python-program-to-swap-two-variables/
